@@ -3,74 +3,74 @@ const products = [
     {
         id: '50rbx',
         robux: 50,
-        price: 5000,
-        originalPrice: 7000,
+        price: 8000,
+        originalPrice: 10000,
         popular: false,
         bonus: null
     },
     {
         id: '100rbx',
         robux: 100,
-        price: 9000,
-        originalPrice: 12000,
+        price: 14000,
+        originalPrice: 15000,
         popular: false,
         bonus: null
     },
     {
         id: '200rbx',
         robux: 200,
-        price: 17000,
-        originalPrice: 22000,
+        price: 28000,
+        originalPrice: 30000,
         popular: true,
         bonus: null
     },
     {
         id: '500rbx',
         robux: 500,
-        price: 40000,
-        originalPrice: 50000,
+        price: 70000,
+        originalPrice: 75000,
         popular: false,
         bonus: '+25 Bonus Robux'
     },
     {
         id: '800rbx',
         robux: 800,
-        price: 62000,
-        originalPrice: 75000,
+        price: 85000,
+        originalPrice: 120000,
         popular: true,
         bonus: '+50 Bonus Robux'
     },
     {
         id: '1000rbx',
         robux: 1000,
-        price: 75000,
-        originalPrice: 90000,
+        price: 115000,
+        originalPrice: 140000,
         popular: false,
         bonus: '+75 Bonus Robux'
     },
     {
         id: '2000rbx',
         robux: 2000,
-        price: 140000,
-        originalPrice: 170000,
+        price: 230000,
+        originalPrice: 280000,
         popular: false,
         bonus: '+200 Bonus Robux'
     },
     {
         id: '5000rbx',
         robux: 5000,
-        price: 320000,
-        originalPrice: 400000,
+        price: 812000,
+        originalPrice: 1060000,
         popular: false,
-        bonus: '+500 Bonus Robux'
+        bonus: '+300 Bonus Robux'
     },
     {
         id: '10000rbx',
         robux: 10000,
-        price: 600000,
-        originalPrice: 750000,
+        price: 1170000,
+        originalPrice: 2350000,
         popular: false,
-        bonus: '+1000 Bonus Robux'
+        bonus: '+500 Bonus Robux'
     }
 ];
 
