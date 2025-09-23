@@ -51,8 +51,8 @@ const products = [
     {
         id: '2000rbx',
         robux: 2000,
-        price: 230000,
-        originalPrice: 280000,
+        price: 280000,
+        originalPrice: 310000,
         popular: false,
         bonus: '+200 Bonus Robux'
     },
